@@ -1,18 +1,17 @@
-# Hi, I'm Akai Huang
+# Hi, I'm Kai Huang
 
-AI / ML enthusiast passionate about building intelligent systems and exploring the intersection of artificial intelligence with real-world applications.
+**Founder @ [Universal FAW Labs](https://github.com/akaiHuang) | Creative Technologist | Ex-Ogilvy**
 
-## What I'm Working On
+15+ years bridging **Creative Design** and **Engineering Logic** — helping brands build digital assets with AI & WebGL. Previously delivered campaigns for global brands like BMW, Porsche, Nike, and 7-ELEVEN through top 4A agencies.
 
-- **Quantum AI Research** - Exploring retrocausal signals in quantum entanglement simulations with AI-assisted analysis
-- **AI-Powered Applications** - Building interactive apps and prototypes using LLMs and generative AI
-- **Hackathons** - Competing and building innovative AI solutions
+Now I focus on **AI Agents**, **Generative AI**, and **Interactive 3D Experiences** to create the next generation of digital products.
 
 ## Tech Stack
 
-**AI / ML:** Python, PyTorch, Keras, CoreML, OpenAI API
-**Frontend:** React, JavaScript, HTML/CSS, Swift/SwiftUI
-**Tools:** Git, Docker, Jupyter Notebook
+**AI / Generative:** Python, PyTorch, OpenAI API, LLM Integration, Generative AI Workflows
+**Creative Tech:** Three.js, WebGL, Interactive 3D, Real-time Graphics
+**Frontend:** React, JavaScript/TypeScript, HTML/CSS
+**Strategy:** Brand × Technology, Digital Transformation, AI-Driven Campaigns
 
 ## Featured Projects
 
@@ -22,6 +21,16 @@ AI / ML enthusiast passionate about building intelligent systems and exploring t
 | [ai-flag-quiz](https://github.com/akaiHuang/ai-flag-quiz) | AI-powered national flag quiz game built with OpenAI Codex |
 | [codex-experiments](https://github.com/akaiHuang/codex-experiments) | Experiments and prototypes built with OpenAI Codex API |
 
-## Get In Touch
+## Writing & Insights
 
+I regularly share perspectives on AI, brand strategy, and creative technology:
+
+- AI Agents as autonomous digital partners — from tools to collaborators
+- Brand strategy in the age of AI — deliberate inefficiency as a competitive moat
+- Creative technology trends — from Google Genie's interactive worlds to Grok's Video API
+- Security-first approach to local AI agent deployment
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Huang_Akai-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/huang-akai-41760570/)
 [![GitHub](https://img.shields.io/badge/GitHub-akaiHuang-181717?style=flat&logo=github)](https://github.com/akaiHuang)
