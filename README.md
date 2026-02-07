@@ -119,18 +119,6 @@ I architect systems across the full spectrum — from pixels to neural signals:
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akaiHuang&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=akaiHuang&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Huang_Akai-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/huang-akai-41760570/)
