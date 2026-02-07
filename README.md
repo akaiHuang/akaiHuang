@@ -61,18 +61,31 @@ All wrapped in **stunning 3D, shader-driven aesthetics** — because engineering
 
 ---
 
+## 🌟 Featured Projects
+
+> 💡 These represent the most technically challenging work across my 7 skill domains.
+
+🧠 **[multi-agent-orchestrator](https://github.com/akaiHuang/multi-agent-orchestrator)** — Multi-agent system powered by GitHub Copilot SDK. Orchestrates AI agents for brand analysis, market research, and automated campaign execution.
+
+⚡ **[brainwave-eeg-interface](https://github.com/akaiHuang/brainwave-eeg-interface)** — iOS BCI app: NeuroSky EEG headband → 512Hz signal acquisition → real-time FFT spectral analysis → Metal GPU waveform rendering. Pure SwiftUI.
+
+📊 **[btc-dual-ai-trader](https://github.com/akaiHuang/btc-dual-ai-trader)** — Dual AI Bitcoin trading system: conservative + aggressive agents competing and collaborating. JAX-based strategy optimization with live market data.
+
+🏗️ **[ai-floorplan-to-3d](https://github.com/akaiHuang/ai-floorplan-to-3d)** — Upload a 2D floorplan → GPT-4o Vision analyzes room layout → generates interactive 3D world in Three.js. Chinese/English NLP scene control.
+
+🔬 **[quantum-retrocausality-ai](https://github.com/akaiHuang/quantum-retrocausality-ai)** — AI-assisted search for retrocausal signals in quantum entanglement simulations. Exploring the boundary of physics and machine learning.
+
+📈 **[crypto-market-data-pipeline](https://github.com/akaiHuang/crypto-market-data-pipeline)** — Production-grade crypto data pipeline. 11,000+ files of historical market data, automated collection, and analysis infrastructure.
+
+---
+
 ## 🗂️ 38 Repos — 7 Skill Domains
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Human-Machine Interaction
-**人機互動** · 9 repos
+### 🤖 Human-Machine Interaction · 人機互動 (9)
 
 | Repo | What it does |
 |:-----|:-------------|
-| [brainwave-eeg-interface](https://github.com/akaiHuang/brainwave-eeg-interface) | BCI with NeuroSky EEG + Metal GPU |
+| [brainwave-eeg-interface](https://github.com/akaiHuang/brainwave-eeg-interface) | BCI with NeuroSky EEG + Metal GPU + FFT |
 | [emg-gesture-recognition](https://github.com/akaiHuang/emg-gesture-recognition) | EMG gesture recognition with ML |
 | [ai-visual-gesture-recognition](https://github.com/akaiHuang/ai-visual-gesture-recognition) | MediaPipe gesture AI + PyQt6 |
 | [monocular-3d-reconstruction](https://github.com/akaiHuang/monocular-3d-reconstruction) | Single camera → 3D model |
@@ -82,11 +95,7 @@ All wrapped in **stunning 3D, shader-driven aesthetics** — because engineering
 | [social-campaign-engine](https://github.com/akaiHuang/social-campaign-engine) | Threads/IG social automation |
 | [cross-platform-gig-marketplace](https://github.com/akaiHuang/cross-platform-gig-marketplace) | Multi-platform freelance marketplace |
 
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Simulating Humans
-**模擬人類** · 4 repos
+### 🧠 Simulating Humans · 模擬人類 (4)
 
 | Repo | What it does |
 |:-----|:-------------|
@@ -95,38 +104,18 @@ All wrapped in **stunning 3D, shader-driven aesthetics** — because engineering
 | [ai-visual-web-inspector](https://github.com/akaiHuang/ai-visual-web-inspector) | Playwright visual web inspector |
 | [facebook-campaign-bot](https://github.com/akaiHuang/facebook-campaign-bot) | FB campaign automation bot |
 
----
-
-### 🔄 Self-Evolution
-**自我迭代** · 2 repos
-
-| Repo | What it does |
-|:-----|:-------------|
-| [self-evolving-test-pipeline](https://github.com/akaiHuang/self-evolving-test-pipeline) | Self-evolving test system |
-| [trading-backtest-optimizer](https://github.com/akaiHuang/trading-backtest-optimizer) | Trading strategy backtester |
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🕷️ Crawler & Intelligence
-**爬蟲與智能分類** · 6 repos
+### 🕷️ Crawler & Intelligence · 爬蟲與智能分類 (6)
 
 | Repo | What it does |
 |:-----|:-------------|
 | [crypto-market-data-pipeline](https://github.com/akaiHuang/crypto-market-data-pipeline) | Crypto data pipeline (11K+ files) |
-| [cad-intelligent-recognizer](https://github.com/akaiHuang/cad-intelligent-recognizer) | CAD DXF/DWG parser + 6-dim scoring |
+| [cad-intelligent-recognizer](https://github.com/akaiHuang/cad-intelligent-recognizer) | CAD DXF/DWG parser + 6-dim confidence scoring |
 | [marketsense-ai](https://github.com/akaiHuang/marketsense-ai) | Market sentiment analysis API |
 | [brand-sentiment-dashboard](https://github.com/akaiHuang/brand-sentiment-dashboard) | Brand monitoring dashboard |
 | [brand-strategy-analyzer](https://github.com/akaiHuang/brand-strategy-analyzer) | AI brand strategy engine |
 | [gov-procurement-analytics](https://github.com/akaiHuang/gov-procurement-analytics) | Government procurement analytics |
 
-</td>
-<td width="50%" valign="top">
-
-### ⚡ AI Automation
-**AI自動化** · 7 repos
+### ⚡ AI Automation · AI自動化 (7)
 
 | Repo | What it does |
 |:-----|:-------------|
@@ -138,66 +127,32 @@ All wrapped in **stunning 3D, shader-driven aesthetics** — because engineering
 | [ai-cyberpunk-blog](https://github.com/akaiHuang/ai-cyberpunk-blog) | Cyberpunk-themed AI blog |
 | [ai-flag-quiz](https://github.com/akaiHuang/ai-flag-quiz) | AI-powered flag quiz game |
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 🔄 Self-Evolution · 自我迭代 (2)
 
-### 🎨 Aesthetics / Shader / 3D
-**美學** · 7 repos
+| Repo | What it does |
+|:-----|:-------------|
+| [self-evolving-test-pipeline](https://github.com/akaiHuang/self-evolving-test-pipeline) | Self-evolving test system |
+| [trading-backtest-optimizer](https://github.com/akaiHuang/trading-backtest-optimizer) | Trading strategy backtester |
+
+### 🎨 Aesthetics / Shader / 3D · 美學 (7)
 
 | Repo | What it does |
 |:-----|:-------------|
 | [faw-creative-studio](https://github.com/akaiHuang/faw-creative-studio) | FAW main creative site |
 | [memorial-3d-experience](https://github.com/akaiHuang/memorial-3d-experience) | 3D memorial experience |
-| [rebar-3d-designer](https://github.com/akaiHuang/rebar-3d-designer) | 3D rebar engineering viz |
+| [rebar-3d-designer](https://github.com/akaiHuang/rebar-3d-designer) | 3D rebar engineering visualization |
 | [canvas-8bit-game-engine](https://github.com/akaiHuang/canvas-8bit-game-engine) | 8-bit game engine |
 | [pixel-art-studio](https://github.com/akaiHuang/pixel-art-studio) | Pixel art editor |
 | [creative-design-system](https://github.com/akaiHuang/creative-design-system) | Design system toolkit |
 | [faw-website-vite](https://github.com/akaiHuang/faw-website-vite) | Vite-based portfolio site |
 
-</td>
-<td width="50%" valign="top">
-
-### 🔬 Quantum & Thermodynamics
-**量子/熱力學** · 3 repos
+### 🔬 Quantum & Thermodynamics · 量子/熱力學 (3)
 
 | Repo | What it does |
 |:-----|:-------------|
 | [thermodynamic-computing-research](https://github.com/akaiHuang/thermodynamic-computing-research) | Extropic thermodynamic computing |
 | [thrml-python-implementation](https://github.com/akaiHuang/thrml-python-implementation) | Thrml Python SDK |
 | [quantum-retrocausality-ai](https://github.com/akaiHuang/quantum-retrocausality-ai) | Quantum retrocausality + AI |
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/akaiHuang/multi-agent-orchestrator">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akaiHuang&repo=multi-agent-orchestrator&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/akaiHuang/brainwave-eeg-interface">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akaiHuang&repo=brainwave-eeg-interface&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/akaiHuang/crypto-market-data-pipeline">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akaiHuang&repo=crypto-market-data-pipeline&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/akaiHuang/ai-floorplan-to-3d">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akaiHuang&repo=ai-floorplan-to-3d&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/akaiHuang/thermodynamic-computing-research">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akaiHuang&repo=thermodynamic-computing-research&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/akaiHuang/self-evolving-test-pipeline">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akaiHuang&repo=self-evolving-test-pipeline&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
 
 ---
 
