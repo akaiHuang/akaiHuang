@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Kai Huang (黃中凱)
+# 👋 Hey, I'm Kai Huang 
 
 ### Founder @ Universal FAW Labs | Creative Technologist | Ex-Ogilvy
 
