@@ -19,7 +19,7 @@ Now I focus on **AI Agents**, **Generative AI**, and **Interactive 3D Experience
 |---------|-------------|
 | [quantum-retrocausality-ai](https://github.com/akaiHuang/quantum-retrocausality-ai) | AI-assisted search for retrocausal signals in quantum entanglement simulations |
 | [ai-flag-quiz](https://github.com/akaiHuang/ai-flag-quiz) | AI-powered national flag quiz game built with OpenAI Codex |
-| [codex-experiments](https://github.com/akaiHuang/codex-experiments) | Experiments and prototypes built with OpenAI Codex API |
+
 
 ## Writing & Insights
 
