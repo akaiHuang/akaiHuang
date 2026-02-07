@@ -47,17 +47,7 @@ I believe the next paradigm isn't about replacing humans — it's about building
 
 ## 🏗️ What I'm Building
 
-I architect systems across the **full spectrum from pixels to neural signals**:
-
-**Phase 1 — Sense the world.** Interfaces that bridge humans and machines: gesture recognition from EMG and cameras, brainwave EEG interfaces, and spatial computing.
-
-**Phase 2 — Understand the world.** Crawlers, sentiment engines, and intelligence pipelines that parse markets, brands, governments, and social platforms at scale.
-
-**Phase 3 — Act on the world.** Multi-agent orchestrators, autonomous traders, and automation bots that execute decisions without human bottlenecks.
-
-**Phase 4 — Evolve.** Self-testing pipelines and backtesting optimizers that let systems improve themselves, closing the loop toward autonomous value creation.
-
-All wrapped in **stunning 3D, shader-driven aesthetics** — because engineering without beauty is only half the job.
+<img src="assets/system-architecture.png" width="100%" alt="System Architecture: Sense → Understand → Act → Evolve" />
 
 ---
 
