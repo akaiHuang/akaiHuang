@@ -1,125 +1,111 @@
-# Hi, I'm Kai Huang
+# Sheng-Kai Huang
 
-**Founder @ [Universal FAW Labs](https://github.com/akaiHuang) | Creative Technologist | Ex-Ogilvy**
+AI runtime engineer / agent systems builder / human-machine interface designer.
 
-> Building self-evolving systems that compound value autonomously across domains.
+I build AI systems from the runtime up: MLX and Metal model ports, local inference services, agent harnesses, memory loops, world-model experiments, and interfaces that make AI observable, steerable, and trustworthy.
 
-15+ years bridging **Creative Design** and **Engineering Logic** — previously delivered campaigns for global brands like BMW, Porsche, Nike, and 7-ELEVEN through top 4A agencies. Now focused on **AI Agents**, **Generative AI**, and **Interactive 3D Experiences**.
+Current direction: practical AGI scaffolding, Thinking Machines, local-first agents, world models, and HMI for both humans and AI.
 
----
+[Portfolio](https://fawstudio.com/shengkai) / [Technical resume](https://fawstudio.com/portfolio/) / [GitHub](https://github.com/akaiHuang) / `akai@fawstudio.com`
 
-## What I'm Building
+<p align="center">
+  <a href="https://fawstudio.com/shengkai">
+    <img src="assets/faw-portfolio-hero.jpg" alt="Sheng-Kai Huang portfolio hero" width="32%">
+  </a>
+  <a href="https://fawstudio.com/shengkai">
+    <img src="assets/faw-works-showcase.jpg" alt="Selected AI systems and HMI work showcase" width="32%">
+  </a>
+  <a href="https://fawstudio.com/shengkai">
+    <img src="assets/faw-skill-tree.jpg" alt="AI runtime and agent systems skill tree" width="32%">
+  </a>
+</p>
 
-<img src="assets/system-architecture.png" width="100%" alt="System Architecture: Sense → Understand → Act → Evolve" />
-
-I architect systems across the full spectrum — from pixels to neural signals:
-
-**Phase 1 — Sense the world.** Interfaces that bridge humans and machines: gesture recognition from EMG and cameras, brainwave EEG interfaces, and spatial computing.
-
-**Phase 2 — Understand the world.** Crawlers, sentiment engines, and intelligence pipelines that parse markets, brands, governments, and social platforms at scale.
-
-**Phase 3 — Act on the world.** Multi-agent orchestrators, autonomous traders, and automation bots that execute decisions without human bottlenecks.
-
-**Phase 4 — Evolve.** Self-testing pipelines and backtesting optimizers that let systems improve themselves, closing the loop toward autonomous value creation.
-
-> All wrapped in stunning 3D, shader-driven aesthetics — because engineering without beauty is only half the job.
-
----
-
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat&logo=webgl&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+<p align="center">
+  <sub>Portfolio identity / selected systems / AI runtime skill map</sub>
+</p>
 
 ---
 
-## Featured Projects
+## Current Focus
 
-### AI Agents & Automation
-| Project | Description |
-|---------|-------------|
-| [multi-agent-orchestrator](https://github.com/akaiHuang/multi-agent-orchestrator) | Multi-agent framework with supervisor, developer, tester & reporter roles for complex task orchestration |
-| [btc-dual-ai-trader](https://github.com/akaiHuang/btc-dual-ai-trader) | Autonomous crypto trading system combining GPT-4 & Kimi K2 with five trading personas |
-| [social-campaign-engine](https://github.com/akaiHuang/social-campaign-engine) | Automated social media campaign orchestration engine |
-| [facebook-campaign-bot](https://github.com/akaiHuang/facebook-campaign-bot) | AI-powered Facebook campaign automation bot |
-| [ai-content-scheduler](https://github.com/akaiHuang/ai-content-scheduler) | Intelligent content scheduling and publishing pipeline |
-| [api-less-creative-automation](https://github.com/akaiHuang/api-less-creative-automation) | Creative automation workflows without external API dependencies |
-| [self-evolving-test-pipeline](https://github.com/akaiHuang/self-evolving-test-pipeline) | Self-iterating test pipeline that evolves its own optimization logic |
+| Area | What I build | Public evidence |
+|---|---|---|
+| MLX / Metal optimization | PyTorch/CUDA to MLX ports, tensor layout conversion, state_dict surgery, custom op replacement, parity tests, profiling | [cuda2mlx](https://github.com/akaiHuang/cuda2mlx), [mlx-sci](https://github.com/akaiHuang/mlx-sci), [mlx-heretic](https://github.com/akaiHuang/mlx-heretic) |
+| Inference runtime | KV/prefix cache, chunked prefill, quantization, warm services, TTFT/decode benchmarking, OpenAI-compatible local APIs | [mlx-qwen3-tts-real-streaming](https://github.com/akaiHuang/mlx-qwen3-tts-real-streaming), [mlx-audio](https://github.com/akaiHuang/mlx-audio), [parameter-golf](https://github.com/akaiHuang/parameter-golf) |
+| Agent harnesses | Task contracts, tool use, memory, verifier loops, review gates, safe executor surfaces, multi-agent coordination | [vsmonster](https://github.com/akaiHuang/vsmonster), [multi-agent-orchestrator](https://github.com/akaiHuang/multi-agent-orchestrator) |
+| World models and embodied AI | 3DGS, visual state, pose and motion, afterstate candidates, compact scoring, game/robot probes | [monocular-3d-reconstruction](https://github.com/akaiHuang/monocular-3d-reconstruction), [ai-floorplan-to-3d](https://github.com/akaiHuang/ai-floorplan-to-3d), portfolio demos |
+| Human-machine interface | Brainwave/music experiments, shader music, 2D/3D focus interfaces, operator surfaces for observing and steering AI | [AI_shader_Music_lab](https://github.com/akaiHuang/AI_shader_Music_lab), [brainwave-eeg-interface](https://github.com/akaiHuang/brainwave-eeg-interface), [ai-visual-web-inspector](https://github.com/akaiHuang/ai-visual-web-inspector) |
 
-### Quantitative Trading & Finance
-| Project | Description |
-|---------|-------------|
-| [crypto-market-data-pipeline](https://github.com/akaiHuang/crypto-market-data-pipeline) | Production pipeline processing 3.1M+ crypto candlestick records for quantitative research |
-| [trading-backtest-optimizer](https://github.com/akaiHuang/trading-backtest-optimizer) | Walk-forward optimization & ML-powered parameter tuning for trading strategies |
-| [BTC-with-LLM](https://github.com/akaiHuang/BTC-with-LLM) | Bitcoin trading strategies powered by Large Language Models |
-| [BTC-price-and-news-correlation](https://github.com/akaiHuang/BTC-price-and-news-correlation) | Correlation analysis between BTC price movements and news sentiment |
-
-### Data Intelligence & Analytics
-| Project | Description |
-|---------|-------------|
-| [social-intelligence-pipeline](https://github.com/akaiHuang/social-intelligence-pipeline) | AI-driven social media analysis and sentiment intelligence pipeline |
-| [marketsense-ai](https://github.com/akaiHuang/marketsense-ai) | AI-powered market trend sensing and analysis dashboard |
-| [brand-strategy-analyzer](https://github.com/akaiHuang/brand-strategy-analyzer) | Brand positioning and competitive strategy analysis tool |
-| [brand-sentiment-dashboard](https://github.com/akaiHuang/brand-sentiment-dashboard) | Real-time brand sentiment monitoring dashboard |
-| [gov-procurement-analytics](https://github.com/akaiHuang/gov-procurement-analytics) | Government procurement data analytics and visualization |
-| [document-vision-analyzer](https://github.com/akaiHuang/document-vision-analyzer) | AI-powered document analysis using computer vision |
-| [ai-visual-web-inspector](https://github.com/akaiHuang/ai-visual-web-inspector) | Visual web page inspection and analysis with AI |
-| [SEOengine](https://github.com/akaiHuang/SEOengine) | AI-driven SEO analysis and optimization engine |
-
-### Sensing & BCI
-| Project | Description |
-|---------|-------------|
-| [brainwave-eeg-interface](https://github.com/akaiHuang/brainwave-eeg-interface) | iOS EEG brainwave interface with real-time FFT analysis and Metal GPU rendering |
-| [emg-gesture-recognition](https://github.com/akaiHuang/emg-gesture-recognition) | Real-time 8-channel EMG gesture classification with PyTorch |
-| [ai-visual-gesture-recognition](https://github.com/akaiHuang/ai-visual-gesture-recognition) | Computer vision-based gesture recognition system |
-
-### 3D / Creative Tech
-| Project | Description |
-|---------|-------------|
-| [ai-floorplan-to-3d](https://github.com/akaiHuang/ai-floorplan-to-3d) | 2D floorplan to interactive 3D model converter using GPT-4o Vision + Three.js |
-| [monocular-3d-reconstruction](https://github.com/akaiHuang/monocular-3d-reconstruction) | 3D scene reconstruction from single monocular images |
-| [rebar-3d-designer](https://github.com/akaiHuang/rebar-3d-designer) | Interactive 3D rebar structure design tool |
-| [memorial-3d-experience](https://github.com/akaiHuang/memorial-3d-experience) | Immersive 3D memorial experience with WebGL |
-| [pixel-art-studio](https://github.com/akaiHuang/pixel-art-studio) | Browser-based pixel art creation studio |
-| [canvas-8bit-game-engine](https://github.com/akaiHuang/canvas-8bit-game-engine) | Retro 8-bit game engine built on HTML5 Canvas |
-| [creative-design-system](https://github.com/akaiHuang/creative-design-system) | Modular design system for creative applications |
-| [cad-intelligent-recognizer](https://github.com/akaiHuang/cad-intelligent-recognizer) | AI-powered CAD drawing recognition and analysis |
-
-### Research & Frontier
-| Project | Description |
-|---------|-------------|
-| [quantum-retrocausality-ai](https://github.com/akaiHuang/quantum-retrocausality-ai) | AI-assisted search for retrocausal signals in quantum entanglement simulations |
-| [thermodynamic-computing-research](https://github.com/akaiHuang/thermodynamic-computing-research) | Research on thermodynamic computing paradigms |
-| [thrml-python-implementation](https://github.com/akaiHuang/thrml-python-implementation) | Python implementation of thermodynamic computing models |
-
-### Web3 & Platforms
-| Project | Description |
-|---------|-------------|
-| [web3-sensory-fortune](https://github.com/akaiHuang/web3-sensory-fortune) | Web3-powered sensory fortune experience |
-| [geo-privacy-social-platform](https://github.com/akaiHuang/geo-privacy-social-platform) | Privacy-first social platform with geo-based features |
-| [cross-platform-gig-marketplace](https://github.com/akaiHuang/cross-platform-gig-marketplace) | Cross-platform marketplace for gig economy services |
-| [ai-cyberpunk-blog](https://github.com/akaiHuang/ai-cyberpunk-blog) | Cyberpunk-themed AI-generated blog platform |
-
-### Developer Tools
-| Project | Description |
-|---------|-------------|
-| [vsmonster](https://github.com/akaiHuang/vsmonster) | VSMONSTER - Connect social platforms to VS Code Copilot |
-| [ui-ux-pro-max-skill](https://github.com/akaiHuang/ui-ux-pro-max-skill) | AI skill providing design intelligence for professional UI/UX across multiple platforms |
+Some current Meadow and agent-runtime work is intentionally private or staged. Public repos show sanitized toolkits, benchmarks, demos, and portfolio evidence. I do not publish unreleased code, private credentials, client material, or unreviewed internal experiments.
 
 ---
 
-## Connect
+## Selected Work
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Huang_Akai-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/huang-akai-41760570/)
-[![GitHub](https://img.shields.io/badge/GitHub-akaiHuang-181717?style=flat&logo=github)](https://github.com/akaiHuang)
+### CUDA2MLX
+
+[cuda2mlx](https://github.com/akaiHuang/cuda2mlx) turns repeated PyTorch/CUDA to Apple Silicon MLX porting work into an analyzable framework.
+
+- Covers LLM, vision, 3D, sparse ops, signal workloads, and custom Metal kernel paths.
+- Includes state_dict rename, tensor layout conversion, cookbook ops, hard-case markers, and parity gates.
+- Public README documents 11/11 E2E parity tests, 37/37 smoke coverage, and real repo analysis on TRELLIS, ProPainter, LaMa, InstantMesh, and LGM.
+
+### MLX and Local Inference
+
+I work on the layer between model capability and product reliability: runtime latency, memory pressure, cache behavior, streaming, and service lifecycle.
+
+- [mlx-qwen3-tts-real-streaming](https://github.com/akaiHuang/mlx-qwen3-tts-real-streaming): chunk-level streaming path for Qwen3-TTS on MLX.
+- [mlx-audio](https://github.com/akaiHuang/mlx-audio): STT/TTS/STS library work around Apple Silicon speech analysis.
+- [mlx-sci](https://github.com/akaiHuang/mlx-sci): scientific and signal-processing kernels on MLX.
+
+### VSMONSTER
+
+[vsmonster](https://github.com/akaiHuang/vsmonster) explores a local agent operating system for software work.
+
+- One chat interface orchestrates local/cloud AI agents.
+- UFO plans and queues tasks, BlueMonster executes, and messaging bridges route work from phone to desktop.
+- The product direction is not just "AI chat in an editor"; it is task lifecycle, review, recovery, and reusable skill accumulation.
+
+### Shader Music Lab
+
+[AI_shader_Music_lab](https://github.com/akaiHuang/AI_shader_Music_lab) is a browser-based generative instrument.
+
+- WebGL shader core, WebAudio rhythm engine, and p5-style generative panels.
+- 21-cell audio-visual dashboard with bidirectional coupling: rhythm drives visuals, and visual metrics feed back into sound.
+- This work sits in the HMI line: interfaces that make system state felt, not hidden.
+
+### HMI and Biosignals
+
+- [brainwave-eeg-interface](https://github.com/akaiHuang/brainwave-eeg-interface): EEG interface experiments with real-time FFT and GPU rendering.
+- [emg-gesture-recognition](https://github.com/akaiHuang/emg-gesture-recognition): 8-channel EMG gesture recognition.
+- [ai-visual-web-inspector](https://github.com/akaiHuang/ai-visual-web-inspector): visual web inspection and UI decomposition with browser automation.
+
+---
+
+## How To Read This GitHub
+
+The public repositories are organized into four layers:
+
+1. **Core AI systems**: MLX, Metal, inference, local serving, speech, and parameter-constrained training.
+2. **Agent harnesses**: task routing, review, verification, memory, and tool execution.
+3. **World and interface demos**: 3D, visual state, generative media, HMI, and embodied probes.
+4. **Archive / older product prototypes**: useful as breadth evidence, but not the center of my current AI direction.
+
+For the most complete and current story, start with the portfolio:
+
+- [fawstudio.com/shengkai](https://fawstudio.com/shengkai)
+- [fawstudio.com/portfolio](https://fawstudio.com/portfolio/)
+
+---
+
+## Technical Keywords
+
+`MLX` / `Metal` / `Apple Silicon` / `PyTorch` / `CUDA porting` / `state_dict conversion` / `tensor layout` / `custom kernels` / `parity tests` / `local inference` / `KV cache` / `chunked prefill` / `TTFT` / `streaming TTS` / `agent harness` / `tool use` / `memory verifier` / `world model` / `3DGS` / `HMI` / `WebGL` / `Three.js`
+
+---
+
+## Background
+
+I started from physics and spent years in creative technology, visual systems, and interface design before moving deeper into AI runtimes and agent systems. That mix matters: I care about whether AI is fast, measurable, controllable, and also understandable to the person using it.
+
+My current fit is strongest where product, runtime, and interface meet: AI systems that need to be built, profiled, debugged, and made usable.
